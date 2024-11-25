@@ -1,0 +1,144 @@
+body{
+
+  font-family: 'ubuntu';
+  }
+  
+header{
+  background: linear-gradient(90deg, #3e7b31, #3e7b31);
+}
+
+footer{
+    font-size: 0.9rem;
+  }  
+  
+#textodor{
+  font-family: 'Bebas Neue';
+  }
+
+#textobotao{
+  font-size: 100%;
+}
+
+#premios{
+ background-color: #639c54;
+ font-family: 'Ubuntu';
+ font-size: 175%;
+ color: white;
+ border-radius: 50px;
+}
+
+#sobrenos{
+  font-size: 120%;
+}
+
+#secao2{
+  font-size: 130%;
+}
+
+#donalu{
+  border-radius: 70px;
+}
+
+#calltoaction{
+  font-family: Bebas Neue;
+  font-size: 300%;
+}
+
+#textocringe{
+  font-size: 120%;
+}
+
+#editlogo{
+  margin-left: 1%;
+  margin-right: 0%;
+}
+
+#navbar-nav{
+ margin-left: 1000px;
+}
+
+
+
+#secao4{
+  font-size: 120%;
+  margin: 7%;
+  text-align: justify;
+}
+
+#secaometodologia{
+  background-color: #639c54;
+
+}
+
+#fotoflor{
+  border-radius: 10px;
+}
+
+#h1metodologia{
+  font-family: Bebas Neue;
+  font-size: 60px;
+
+}
+
+.botao{
+  font-family: Bebas Neue;
+  font-size: 25px;
+  background-color: #639c54;
+  color: white;
+  transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.botao:hover{
+  background-color: #3e7b31;
+  color: white;
+  transform: scale(1.2)
+}
+
+#textometodologia{
+  font-size: 20px;
+}
+
+#Familiamarques{
+  margin: auto;
+  display: block;
+  border-radius: 40px;
+}
+#cimentobravo{
+  margin: auto;
+  display: block;
+  border-radius: 40px;
+}
+
+#textoacordeon{
+  font-size: 15px;
+  font-family:'Ubuntu';
+}
+
+h3{
+  font-family: Bebas Neue;
+  color: #3e7b31;
+}
+
+#textosecaofinal{
+  font-size: 50px;
+  font-family: Bebas Neue;
+  color: #3e7b31;
+}
+
+#footer{
+  background-color: #3e7b31;
+}
+
+#final{
+  font-family: Bebas Neue;
+}
+
+#textoinsta{
+  font-size: 30px;
+  font-family: Bebas Neue;
+}
+
+#textobotao3{
+  font-size: 20px;
+}
+
